@@ -1,4 +1,4 @@
-#Welocome!
+#Welcome!
 
 this website was built on the framework [Jekyll](https://jekyllrb.com/) and on top of that I used [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme) for the template.
 
