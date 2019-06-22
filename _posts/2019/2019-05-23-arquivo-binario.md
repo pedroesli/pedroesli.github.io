@@ -3,7 +3,7 @@ layout: post
 title: Arquivo Binário
 subtitle: O básico de arquivos em c
 date: 2019-05-23 21:42
-tags: [arquivo binário]
+tags: [linguagem c]
 ---
 Quando estamos trabalhando com arquivos, existe dois tipos de arquivos que devemos saber:
 1. Arquivo de texto
