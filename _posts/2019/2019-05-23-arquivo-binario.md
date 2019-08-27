@@ -12,7 +12,7 @@ Quando estamos trabalhando com arquivos, existe dois tipos de arquivos que devem
 ### 1. Arquivo de texto
 Um arquivo de texto é usado para armazenar dados textuais padrão e estruturados ou informações legíveis para humanos.
 
-Eles requer um esforço mínimo pra manter e são facil de ser lidos, mais ocupam um tamanho maior de armazenamento.
+Eles requer um esforço mínimo pra manter e são fácil de ser lidos, mais ocupam um tamanho maior de armazenamento.
 
 O arquivo de texto mais reconhecido é o padrão do Windows ".txt". Outros exemplos são:
 - (Linguagem) .c

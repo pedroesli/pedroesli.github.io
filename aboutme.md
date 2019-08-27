@@ -15,7 +15,7 @@ Eating pizza and having a good time with my friends. Having the feeling of satis
 If you are asking why that lightbulb is not on it's because my icon pack didn't have one. Any ways, my talents are:
 - Writing complex paragraphs that only intelligent intellectuals of the high society can understand.
 - Problem solving. Might take me a life time to solve it, **but** I wont  give up.
-- Creativity. Might take me a life time to create something new, **but** haha no...just kidding.
+- Creativity. I enjoy trying to come up with new ideas and trying to implement them.
 
 #### Do I utilize those talents? ![pencil](/img/pencil.png)
 Yes, everyday and all the time in my life. Here's an [example](/index.html), haha yes I applied all of my talents ![lightbulb](/img/lightbulb.png) into making this wonderful website. If you asked me how I made it, credits goes to this framework: [jekyll](https://jekyllrb.com/). Pedro why not use WordPress? My response: "I don't like WordPress". Why? If you are a developer and wants to make/modify your websites template you are going to have a harder time figuring out how to make things rather than actually focusing on your site. Ok I may have shifted away from the question but now you may have discovered a new blog framework.
