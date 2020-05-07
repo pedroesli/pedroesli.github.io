@@ -2,7 +2,7 @@
 layout: post
 title: Experiência na criação de um jogo
 subtitle: Criando um jogo durante a quarentena
-tags: [Game-dev]
+tags: [game-dev]
 ---
 
 Bom a quarentena tinha começado e junto veio o tedio. Ai pensei, porque não fazer um jogo no meu game engine favorito ,Unity. E bom aqui ficou o resultado do jogo caso voce queira dar uma olhada [Space Platform][1bc24e0c]. Mas em fim, não estou aqui para falar sobre o resultado final do jogo e sim como foi a minha experiência na criação dele.
@@ -44,6 +44,8 @@ public class Player : MonoBehaviour
     }
 }
 ```
+Aqui criei uma ação chamado de OnPlayerMachucado onde ele obri
+
 ```
 public class UIManager : MonoBehaviour
 {
