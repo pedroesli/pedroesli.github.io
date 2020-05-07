@@ -6,7 +6,7 @@ comments: true
 tags: [game-dev]
 ---
 
-Bom a quarentena tinha começado e junto veio o tedio. Ai pensei, porque não fazer um jogo no meu game engine favorito ,Unity. E bom aqui ficou o resultado do jogo caso voce queira dar uma olhada [Space Platform][1bc24e0c]. Mas em fim, não estou aqui para falar sobre o resultado final do jogo e sim como foi a minha experiência na criação dele.
+Bom, a quarentena tinha começado e junto veio o tedio. Ai pensei, porque não fazer um jogo no meu game engine favorito ,Unity. E bom aqui ficou o resultado do jogo caso voce queira dar uma olhada [Space Platform][1bc24e0c]. Mas em fim, não estou aqui para falar sobre o resultado final do jogo e sim como foi a minha experiência na criação dele.
 
 E o que achei mais interessante foi na hora de programação foi que quanto mais complexo ficava o jogo, mais bagunçado ficava o código, igual ao meu quarto durante as ferias.
 Por exemplo, quando o personagem se machucar por algum meio no jogo ele deve subtrair uma vida do total que ele tem. Implementando esta logica no jogo, cada vez que o jogador se machucava ele deveria informar ao componente que é responsável de mostrar a vida e também a todos os objetos que precisavam saber. Como o Game Manager( Gerente do jogo), sistema de respawn , UI Manager e entre outros componentes.
@@ -89,7 +89,7 @@ public class GameManager : MonoBehaviour
     }
 }
 ```
-Como podemos ver, este modelo de programação é uma maneira simples de deixar o cogido mais limpo e proficional.
+Como podemos ver, este modelo de programação é uma maneira simples de deixar o cogido mais limpo e profissional.
 Podendo remover a responsabilidade do objeto de funções que ele normalmente não deveria realizar, para outros objetos que estão interesados no estado dele.
 
 
