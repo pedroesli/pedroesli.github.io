@@ -2,6 +2,7 @@
 layout: post
 title: Experiência na criação de um jogo
 subtitle: Criando um jogo durante a quarentena
+comments: true
 tags: [game-dev]
 ---
 
@@ -32,6 +33,9 @@ Basicamente o que ele fala é: "Oh aconteceu este evento! Quem estiver escutando
 
 ![observer-patter](/img/jogador-observer-patter.png)
 
+#### Implementando em codigo
+Aqui criei uma ação chamado de OnPlayerMachucado onde tem parametro obrigatorio do tipo int. Porem quem tiver escutando este evento deve implementar uma função que tem como parametro do tipo int.
+Quando eu chamar este evento, devo primiero verificar si tem alguem escutando. Ou seja if(OnPlayerMachucado!=null)
 ```
 public class Player : MonoBehaviour
 {
@@ -44,8 +48,7 @@ public class Player : MonoBehaviour
     }
 }
 ```
-Aqui criei uma ação chamado de OnPlayerMachucado onde ele obri
-
+Quando o script for habilitado, então começa a escutar. E quando for desabilitado, parar de escutar. Isto é feito usando o operador '+=' para se inscrever ao metodo (lado direito) ao evento (lado esquero). E é uma boa pratica cancelar a subscrição usando o operador '-=' uma vez que você terimou com o trabalho para evitar vazamentos de recursos.
 ```
 public class UIManager : MonoBehaviour
 {
@@ -86,7 +89,8 @@ public class GameManager : MonoBehaviour
     }
 }
 ```
-
+Como podemos ver, este modelo de programação é uma maneira simples de deixar o cogido mais limpo e proficional.
+Podendo remover a responsabilidade do objeto de funções que ele normalmente não deveria realizar, para outros objetos que estão interesados no estado dele.
 
 
   [1bc24e0c]: https://pedroesli.itch.io/space-platform "My space platform game"
