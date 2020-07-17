@@ -50,7 +50,7 @@ Agora si você já é um mestre em programação, você vai falar que isso não 
 E qual é o fatorial de 100?
 **93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000**
 
-É, não é um numero pequeno. Da pra ver porque não caberia em uma variável de 8 bytes.
+É, não é um numero pequeno. Da pra ver porque não caberia em uma variável de 8 bytes. Nem na tela do meu site.
 
 E com as maravilhas do .Net, fiz uma solução bem simples.
 ```
@@ -82,6 +82,6 @@ namespace FactorialDigitSum
 ```
 Resultado de 100! = 648.
 
-Yay, que facil! É só usar a classe BigInteger que trabalha com numeros absurdamente grandes para facilitar a sua vida. E se a prova não quer o uso de qualquer classe e somente o uso de variavels primitivas? Ai é problema seu, aqui só trabalho com .Net.
+Yay, que fácil! É só usar a classe BigInteger que trabalha com números absurdamente grandes, que vai para facilitar a sua vida. E se a prova não quer o uso de qualquer classe e somente o uso de variáveis primitivas? Ai é problema seu, aqui só trabalho com .Net.
 
 Não! Como cientista  da computação, devo trazer todas as soluções. Porem quando fazer uma vou postar aqui!
