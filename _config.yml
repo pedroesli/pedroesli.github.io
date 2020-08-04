@@ -16,8 +16,13 @@ baseurl: ""
 # Name of website
 title: Pedro Ésli
 
+# Site keywords
+keywords: pedroesli, pedroesli.github.io, pedroesli.github
+
 # Short description of your site
 description: Computer Scientist/Game developer
+
+
 
 # --- Navigation bar options --- #
 
