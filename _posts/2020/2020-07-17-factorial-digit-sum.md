@@ -2,6 +2,9 @@
 layout: post
 title: Factorial Digit Sum
 subtitle: Como somar os dígitos do numero de um fatorial?
+cover-img: /img/cover-purple.png
+thumbnail-img: /img/multiplicacao.png
+black-header: true
 comments: true
 css: "/css/post.css"
 tags: [c#, .net]

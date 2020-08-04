@@ -372,13 +372,11 @@ footer .theme-by {
   height: 192px;
   width: 192px;
   margin-top: -35px;
-  filter: grayscale(90%);
 }
 .post-image:hover {
   filter: grayscale(0%);
 }
 .post-image img {
-  border-radius: 100px;
   height: 192px;
   width: 192px;
 }
@@ -786,4 +784,13 @@ td.gutter {
   color: #808080;
   font-style: italic;
   font-size: 16px;
+}
+
+.intro-header.big-img .page-heading, .intro-header.big-img  .black-header{
+  color: #333;
+  text-shadow: none;
+}
+
+.intro-header.big-img  .black-header .black-meta{
+  color: #808080;
 }

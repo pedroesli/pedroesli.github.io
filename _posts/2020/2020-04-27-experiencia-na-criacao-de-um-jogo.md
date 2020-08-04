@@ -2,6 +2,8 @@
 layout: post
 title: Experiência na criação de um jogo
 subtitle: Criando um jogo durante a quarentena
+cover-img: /img/cover-pink.png
+black-header: true
 comments: true
 tags: [game-dev]
 ---
