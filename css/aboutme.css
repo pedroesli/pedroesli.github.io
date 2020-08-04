@@ -4,3 +4,10 @@ h5 img{
 p img{
   width: 25px;
 }
+
+h1 img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}

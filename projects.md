@@ -2,7 +2,6 @@
 layout: page
 title: Projects
 subtitle: Projects that where developed by me. Enjoy!
-comments: true
 css: "/css/project.css"
 ---
 
@@ -25,4 +24,3 @@ css: "/css/project.css"
   </div>
   <div class="col-md-8"><b>Space platform</b><br>A space platform game where you have to make it to the end without losing all lives.</div>
 </div>
----

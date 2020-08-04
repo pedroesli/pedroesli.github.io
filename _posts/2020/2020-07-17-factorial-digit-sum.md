@@ -89,7 +89,7 @@ Não! Como cientista  da computação, devo trazer todas as soluções. Porem vi
 
 A idea do método Multiply(int x, List<int> bigNum) é calcular grandes números usando uma lista. Ilustrei o método usado para multiplicar na seguinte imagem:
 
-<img src="/img/multiplicacao.png" alt="Multiplicação" class="center-img">
+# ![multiplicacao](/img/multiplicacao.png)
 
 ```
 using System;

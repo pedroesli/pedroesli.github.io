@@ -1,9 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to meet me
 css: "/css/aboutme.css"
 ---
+
+# ![my picture](/img/my-pic.png)
 
 So I kept thinking to myself what's the best way to describe me and well why not just answer some simple questions to get peoples attention!
 So whom ever is reading this and is actually looking for a talented programmer, well... read no more! You can hire me straight away!

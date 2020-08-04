@@ -22,7 +22,9 @@ keywords: pedroesli, pedroesli.github.io, pedroesli.github, pedro esli, pedro na
 # Short description of your site
 description: Computer Scientist/Game developer
 
-
+# Favicon
+favicon-32: /img/pe-icon-32.png
+favicon-16: /img/pe-icon-16.png
 
 # --- Navigation bar options --- #
 
@@ -34,12 +36,12 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/space-invaders-avatar.png"
+# avatar: "/img/pe-icon.png"
 
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: /img/pe-icon.png
 
 # --- Background colour/image options --- #
 
@@ -74,23 +76,23 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#  rss: false
   email: "pedroesli.vn@gmail.com"
 #  facebook: daattali
   github: pedroesli
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: pedroesli
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: (61) 99800-6469
 #  steam: deanat78
-  twitch: detrolfire#7761
+#  twitch: detrolfire#7761
 #  yelp: yourname
 
 # Select which share links to show in posts
