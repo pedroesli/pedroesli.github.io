@@ -52,7 +52,7 @@ arq = fopen("E:\\cprogram\\oldprogram.bin","rb");
 ```
 _Modos de abrir o arquivo_
 
-Modo arquivo | Significado  | existência do arquivo |inexistência do arquivo
+Modo arquivo | Significado  | existência do arquivo | inexistência do arquivo
 --|---|--
 r  | Abrir para ler | ✓ | fopen() retorna NULL
 w  | Abrir  para escrever | Os conteúdos são sobrescritos | Vai criar um novo arquivo
