@@ -15,12 +15,14 @@ css: "/css/project.css"
   </div>
   <div class="col-md-8"><b>iBete</b><br>This app is intended to help you maintain and manage your glucose levels at one place. With easy functionalities to make it simple for you to record and check all your previous glucose levels</div>
 </div>
+
 <div class = "row">
   <div class="col-md-4" >
     <a href="https://apps.apple.com/br/app/resunote/id1578935360"><img class="frame" src="/img/resunote.png" alt="resunote"></a>
   </div>
   <div class="col-md-8"><b>Resunote</b><br>A simple app made to make your study reviews a lot easier.</div>
 </div>
+
 <div class = "row">
   <div class="col-md-4" >
     <a href="https://apps.apple.com/br/app/ibored/id1584402111?l=en"><img class="frame" src="/img/ibored.png" alt="iBored!"></a>
@@ -37,12 +39,14 @@ css: "/css/project.css"
   </div>
   <div class="col-md-8"><b>Space InvadersGame</b><br>inspired by the original classic Space Invaders game All sprites where done by hand.</div>
 </div>
+
 <div class = "row">
   <div class="col-md-4">
     <a href="https://pedroesli.itch.io/duck-shooting-galery"><img class="frame" src="/img/duck-shooting-galery.png" alt="duck-shooting-galery"></a>
   </div>
   <div class="col-md-8"><b>Duck Shooting Gallery</b><br>A simple game of duct shooting arcade based on a circus theme park.</div>
 </div>
+
 <div class = "row">
   <div class="col-md-4" >
     <a href="https://pedroesli.itch.io/space-platform"><img class="frame" src="/img/space-platform.png" alt="space-platform"></a>
