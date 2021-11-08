@@ -6,6 +6,14 @@ css: "/css/project.css"
 ---
 
 ---
+<br>
+<h1>Apps</h1>
+<div class = "row">
+  <div class="col-md-4" >
+    <a href="https://apps.apple.com/br/app/ibete/id1588795542"><img class="frame" src="/img/ibete.png" alt="ibete"></a>
+  </div>
+  <div class="col-md-8"><b>iBete</b><br>This app is intended to help you maintain and manage your glucose levels at one place. With easy functionalities to make it simple for you to record and check all your previous glucose levels</div>
+</div>
 <div class = "row">
   <div class="col-md-4" >
     <a href="https://apps.apple.com/br/app/resunote/id1578935360"><img class="frame" src="/img/resunote.png" alt="resunote"></a>
@@ -18,6 +26,10 @@ css: "/css/project.css"
   </div>
   <div class="col-md-8"><b>iBored!</b><br>A fun app that generates a random activity for you to do.</div>
 </div>
+
+<br>
+<h1>Games</h1>
+
 <div class = "row">
   <div class="col-md-4">
     <a href="https://pedroesli.itch.io/space-invaders"><img class="frame" src="/img/space-invaders-game.png" alt="space-invaders-game"></a>

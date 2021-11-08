@@ -7,3 +7,11 @@
   background: whitesmoke;
   width: 100%;
 }
+
+.row{
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1{
+  margin-bottom: 0.9em;
+}

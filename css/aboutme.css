@@ -11,3 +11,7 @@ h1 img{
   margin-right: auto;
   width: 65%;
 }
+
+p, li{
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
