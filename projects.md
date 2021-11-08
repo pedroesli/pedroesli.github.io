@@ -8,6 +8,7 @@ css: "/css/project.css"
 ---
 <br>
 <h1>Apps</h1>
+
 <div class = "row">
   <div class="col-md-4" >
     <a href="https://apps.apple.com/br/app/ibete/id1588795542"><img class="frame" src="/img/ibete.png" alt="ibete"></a>
