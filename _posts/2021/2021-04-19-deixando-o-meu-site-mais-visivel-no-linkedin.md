@@ -11,11 +11,11 @@ tags: [improvement]
 
 # Deixando o meu site mais visível no Linkedin
 
-Então, no outro dia eu tava dando uma olhada melhor no meu perfil do LinkedIn e eu vi algo que podia ser melhorado. No destaque eu tenho um link redirecionando para o meu site.
+Então, no outro dia eu tava dando uma olhada no meu perfil do LinkedIn e eu vi algo que podia ser melhorado. No destaque eu tenho um link redirecionando para o meu site.
 
 ![before update](/img/2021/april/before-update.png)
 
-E como você já pode ter percebido, tem algo faltando nesse Preview do site. E o problema dele é que não tem um exatamente um preview para mostrar e a descrição tá parecendo que foi escrito por uma criança, então vamos arrumar isso pra depois eu dormir aliviado sabendo que tenho um belo preview sendo mostrado.
+E como você já pode ter percebido, tem algo faltando nesse Preview do site. O problema dele é que não tem exatamente um preview para mostrar e a descrição tá parecendo que foi escrito por uma criança, então vamos arrumar isso pra depois eu dormir aliviado sabendo que tenho um belo preview sendo mostrado.
 
 # Mas como arrumo esse troço?
 
@@ -43,13 +43,11 @@ A tag que estou mais interessado é a imagem e editar a descrição. Então prim
 
 ![find meta tag](/img/2021/april/find-meta-tag.png)
 
-E como eu mudo isso... não parece ser como o é exemplo anterior. Bom, primeiramente no meu caso como eu estou utilizando uma framework chamado de Jekyll. Uma Framework que facilita a criação de site blogs estáticos, e não precisa de um banco de dados como Wordpress para guardar os textos.
-
-Então, devo utilizar a variável `share-img` na configuração da pagina do projeto (`projects.md`).
+E como eu mudo isso... não parece ser simples como o é exemplo anterior. Bom, primeiramente no meu caso como eu estou utilizando uma framework chamado de [Jekyll](https://jekyllrb.com). Uma Framework que facilita a criação de site blogs estáticos, e não precisa de um banco de dados como Wordpress para guardar os textos. E nessa eu devo utilizar a variável `share-img` na configuração da pagina do projeto (`projects.md`).
 
 **OBS:** Se você estiver utilizando uma Framework diferente, você deverá consultar no site dele.
 
-Então eu preparo uma imagem de preview (Só tirei uma screenshot do meu site) e redimensiono ele para o tamanho certo.
+Então eu preparei uma imagem para o preview (Só tirei uma screenshot da pagina de projetos) e redimensionei ele para o tamanho certo que o Linkedin recomenda.
 
 ### Sem a variável
 
