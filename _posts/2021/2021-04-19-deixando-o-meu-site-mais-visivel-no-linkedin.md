@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deixando o meu site mais visível no Linkedin
-subtitle: Como somar os dígitos do numero de um fatorial?
+subtitle: Fazendo uma melhoria no meu site
 cover-img: /img/cover-pink.png
 black-header: true
 comments: true
