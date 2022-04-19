@@ -11,9 +11,13 @@ tags: [improvement]
 
 # Deixando o meu site mais visível no Linkedin
 
-Então, no outro dia eu tava dando uma olhada melhor no perfil do meu LinkedIn e vi algo que podia ser melhorado. No destaque eu tenho um link redirecionando para o meu site.
+Então, no outro dia eu tava dando uma olhada melhor no meu perfil do LinkedIn e eu vi algo que podia ser melhorado. No destaque eu tenho um link redirecionando para o meu site.
 
 ![before update](/img/2021/april/before-update.png)
+
+E como você já pode ter percebido, tem algo faltando nesse Preview do site. E o problema dele é que não tem um exatamente um preview para mostrar e a descrição tá parecendo que foi escrito por uma criança, então vamos arrumar isso pra depois eu dormir aliviado sabendo que tenho um belo preview sendo mostrado. 
+
+# Mas como arrumo esse troço?
 
 Pois, com meta tags é claro. Mais especificamente usando o tal de **Open Graph Protocol (OGP),** que para quem não sabe, foi criado pelo Facebook em 2010 e agora gerenciado pelo **Open Web Foundation.** E ele permite controlar quais informações são usadas quando um site é compartilhado. Linkedin utiliza exatamente esse protocolo, como mostrado na [ajuda](https://www.linkedin.com/help/linkedin/answer/a521928/making-your-website-shareable-on-linkedin?lang=en) deles. E para utilizar esse protocolo precisamos colocar meta tags do **Open Graph** na parte do `<head>` do nosso site.
 
