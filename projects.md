@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 subtitle: Projects that where developed by me. Enjoy!
+share-img: /img/projects-preview.png
 css: "/css/project.css"
 ---
 
