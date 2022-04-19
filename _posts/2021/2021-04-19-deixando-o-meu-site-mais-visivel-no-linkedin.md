@@ -15,7 +15,7 @@ Então, no outro dia eu tava dando uma olhada melhor no meu perfil do LinkedIn e
 
 ![before update](/img/2021/april/before-update.png)
 
-E como você já pode ter percebido, tem algo faltando nesse Preview do site. E o problema dele é que não tem um exatamente um preview para mostrar e a descrição tá parecendo que foi escrito por uma criança, então vamos arrumar isso pra depois eu dormir aliviado sabendo que tenho um belo preview sendo mostrado. 
+E como você já pode ter percebido, tem algo faltando nesse Preview do site. E o problema dele é que não tem um exatamente um preview para mostrar e a descrição tá parecendo que foi escrito por uma criança, então vamos arrumar isso pra depois eu dormir aliviado sabendo que tenho um belo preview sendo mostrado.
 
 # Mas como arrumo esse troço?
 
