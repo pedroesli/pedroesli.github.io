@@ -9,8 +9,6 @@ css: "/css/post.css"
 tags: [improvement]
 ---
 
-# Deixando o meu site mais visível no Linkedin
-
 Então, no outro dia eu tava dando uma olhada no meu perfil do LinkedIn e eu vi algo que podia ser melhorado. No destaque eu tenho um link redirecionando para o meu site.
 
 ![before update](/img/2021/april/before-update.png)
