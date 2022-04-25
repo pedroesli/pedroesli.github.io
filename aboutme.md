@@ -15,7 +15,6 @@ Eating pizza and having a good time with my friends. Having the feeling of satis
 
 #### What are my talents? ![lightbulb](/img/lightbulb.png)
 If you are asking why that lightbulb is not on it's because my icon pack didn't have one. Any ways, my talents are:
-- Writing complex paragraphs that only intelligent intellectuals of the high society can understand.
 - Problem solving. Might take me a life time to solve it, **but** I wont  give up.
 - Creativity. I enjoy trying to come up with new ideas and trying to implement them.
 
