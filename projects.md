@@ -51,6 +51,39 @@ css: "/css/project.css"
 </div>
 
 <br>
+<h1>Github</h1>
+
+<div class = "row">
+  <div class="col-md-4">
+    <a href="https://github.com/pedroesli/HowAreBezierCurvesMadeStudentChallenge"><img class="image-frame" src="/img/projects/bezier-logo.png" alt="DragAndDrop"></a>
+  </div>
+  <div class="col-md-8">
+    <div><b>DragAndDrop</b><br>My submission to WWDC22 Swift Student Challenge.</div>
+    <div class="bottom"><a href="https://github.com/pedroesli/HowAreBezierCurvesMadeStudentChallenge" class="btn btn-primary btn-sm" role="button">Go To Project</a></div>
+  </div>
+</div>
+
+<div class = "row">
+  <div class="col-md-4">
+    <a href="https://github.com/pedroesli/DragAndDrop"><img class="image-frame" src="/img/projects/github-logo.png" alt="DragAndDrop"></a>
+  </div>
+  <div class="col-md-8">
+    <div><b>DragAndDrop</b><br>A SwiftUI Package to facilitate the creation of drag and drop views.</div>
+    <div class="bottom"><a href="https://github.com/pedroesli/DragAndDrop" class="btn btn-primary btn-sm" role="button">Go To Project</a></div>
+  </div>
+</div>
+
+<div class = "row">
+  <div class="col-md-4">
+    <a href="https://github.com/pedroesli/KeyAudioManager"><img class="image-frame" src="/img/projects/github-logo.png" alt="KeyAudioManager"></a>
+  </div>
+  <div class="col-md-8">
+    <div><b>KeyAudioManager</b><br>A swift package to make it a lot easier to play audio in your app using simple and intuitive methods.</div>
+    <div class="bottom"><a href="https://github.com/pedroesli/KeyAudioManager" class="btn btn-primary btn-sm" role="button">Go To Project</a></div>
+  </div>
+</div>
+
+<br>
 <h1>Games</h1>
 
 <div class = "row">
