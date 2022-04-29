@@ -55,10 +55,10 @@ css: "/css/project.css"
 
 <div class = "row">
   <div class="col-md-4">
-    <a href="https://github.com/pedroesli/HowAreBezierCurvesMadeStudentChallenge"><img class="image-frame" src="/img/projects/bezier-logo.png" alt="DragAndDrop"></a>
+    <a href="https://github.com/pedroesli/HowAreBezierCurvesMadeStudentChallenge"><img class="image-frame" src="/img/projects/bezier-logo.png" alt="HowAreBezierCurvesMade"></a>
   </div>
   <div class="col-md-8">
-    <div><b>DragAndDrop</b><br>My submission to WWDC22 Swift Student Challenge.</div>
+    <div><b>How Are Bezier Curves Made</b><br>My submission to WWDC22 Swift Student Challenge.</div>
     <div class="bottom"><a href="https://github.com/pedroesli/HowAreBezierCurvesMadeStudentChallenge" class="btn btn-primary btn-sm" role="button">Go To Project</a></div>
   </div>
 </div>
