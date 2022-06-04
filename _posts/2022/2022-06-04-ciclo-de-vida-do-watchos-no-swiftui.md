@@ -6,7 +6,7 @@ cover-img: /img/cover-purple.png
 black-header: true
 comments: true
 css: "/css/post.css"
-tags: [improvement]
+tags: [watchOS]
 ---
 
 Você está precisando entender como funciona e como responder aos eventos do ciclo de vida do seu aplicativo? Bom, então já está num bom caminho. Estarei mostrando duas formas no qual você vai poder ter esse controle. A escolha de qual implementar vai depender da aquele que melhor resolveria o problema da sua aplicação. Más antes de mostrar essas duas formas, acho importante entender como funciona o ciclo de vida do watchOS, no qual veremos em seguida.
