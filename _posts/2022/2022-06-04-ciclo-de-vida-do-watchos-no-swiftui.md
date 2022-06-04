@@ -21,7 +21,7 @@ Você está precisando entender como funciona e como responder aos eventos do ci
 | Segundo Plano | Background | O sistema deu ao aplicativo watchOS uma pequena quantidade de tempo de execução em segundo plano. O sistema fornece tempo de execução em segundo plano aos aplicativos ao executar uma sessão em segundo plano, executar tarefas em segundo plano e antes de suspender o aplicativo. |
 | Suspendido | Suspended | O aplicativo está na memória, mas não está executando o código. O sistema suspende aplicativos que estão em segundo plano e não têm tarefas pendentes para serem concluídas. |
 
-# 1****ª forma**** usando ****WKExtensionDelegate do**** WatchKit
+# 1ª forma usando WKExtensionDelegate do WatchKit
 
 `WKExtensionDelegate` Serve para responder aos eventos do ciclo de vida do seu aplicativo, como a ativação e desativação do seu aplicativo. Você também pode implementar métodos delegados para responder a tarefas em segundo plano, intenções de Siri, sessões de treino ou atividade de Handoff de outros dispositivos. Mas para nós, estamos mais interessados nos métodos de ciclo de vida.
 
@@ -117,7 +117,7 @@ Essa explicação foi dada pela a própria documentação da apple, más pra mim
 1. `applicationWillResignActive()`
 2. `applicationDidEnterBackground()`
 
-## 2****ª usando ScenePhase do SwiftUI****
+## 2ª usando ScenePhase do SwiftUI
 
 Outra forma de determinar o estado do ciclo de vida é usando o valor `scenePhase` no `Environment` no qual é possível observar se a sena está ***ativa***, ***inativa*** ou em ***segundo plano.***
 
