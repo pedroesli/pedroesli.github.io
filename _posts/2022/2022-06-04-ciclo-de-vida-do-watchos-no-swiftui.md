@@ -138,8 +138,8 @@ struct MyApp: App {
         }
         .onChange(of: scenePhase) { phase in
             if phase == .background {
-                // Executar limpeza quando todas as cenas dentro do
-								// MyApp forem para segundo plano.
+              // Executar limpeza quando todas as cenas dentro do
+              // MyApp forem para segundo plano.
             }
         }
     }
