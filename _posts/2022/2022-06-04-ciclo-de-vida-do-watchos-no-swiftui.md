@@ -125,7 +125,7 @@ Outra forma de determinar o estado do ciclo de vida é usando o valor `scenePhas
 @Environment(\.scenePhase) private var scenePhase
 ```
 
-Para observar a mudança do estado é simplesmente utilizar o método `[onChange(of:perform:)](https://developer.apple.com/documentation/swiftui/view/onchange(of:perform:))` como mostra no exemplo em seguida:
+Para observar a mudança do estado é simplesmente utilizar o método `onChange(of:perform:)` como mostra no exemplo em seguida:
 
 ```swift
 @main
