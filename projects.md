@@ -83,7 +83,7 @@ css: "/css/project.css"
   </div>
 </div>
 
-<br>
+<!-- <br>
 <h1>Games</h1>
 
 <div class = "row">
@@ -114,4 +114,4 @@ css: "/css/project.css"
     <div><b>Space platform</b><br>A space platform game where you have to make it to the end without losing all lives.</div>
     <div class="bottom"><a href="https://pedroesli.itch.io/space-platform" class="btn btn-primary btn-sm" role="button">Go To Project</a></div>
   </div>
-</div>
+</div> -->
