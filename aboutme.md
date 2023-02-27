@@ -23,17 +23,16 @@ Eating pizza or burger, having a good time with my friends, having the feeling o
 - Creative thinking.
 - Empathy.
 - Team work.
-- Efficient comunication.
+- Efficient communication.
 
 #### Do I utilize those talents? ![pencil](/img/aboutme/pencil.svg)
-Yes, everyday and all the time in my life. Here's an [example](/index.html), haha yes I applied all of my talents into making this wonderful website. If you asked me how I made it, credits goes to this framework: [jekyll](https://jekyllrb.com/). Pedro why not use WordPress? My response: "I don't like WordPress". Why? If you are a developer and wants to make/modify your websites template you are going to have a harder time figuring out how to make things rather than actually focusing on your site. Ok I may have shifted away from the question but now you may have discovered a new blog framework.
+Yes, everyday and all the time in my life. An example would be making my site you are currently at, I've had no prior knowledge of how to make to make a blog site, but I got motivated into making one, so I researched how to make one and made it by myself. The site it self is hosted in Github, I just pay for the domain name. If you asked me how I made it, credits goes to this framework: [jekyll](https://jekyllrb.com/). Why not use WordPress? Well I didn't like WordPress that much. Why? If you are a developer and wants to make/modify your websites template you are going to have a harder time figuring out how to make things rather than actually focusing on your site.
 
-#### What is my favourite award? ![award](/img/aboutme/award.svg)
-One of my favourite accomplishment was to participate in the Swift Student Challenge - WWDC22, where I got to develop an interative app to be able to impress the judges at Apple and I got to be choosen as one of winners. Considering the challenge is world wide and only 300 people get to be choosen, I was so happy, jumping up and down out of joy, I also felt a sense of satisfaction to be have been choosen by Apple for something that was made entirely by me. You can see a video of the app that I made here: [How are Bézier curves made? A WWD22 Interactive scene](https://youtu.be/CKAgK4ZwFyQ). Or you can see the source code here: [https://github.com/pedroesli/HowAreBezierCurvesMadeStudentChallenge](https://github.com/pedroesli/HowAreBezierCurvesMadeStudentChallenge)
+#### What is my favorite award? ![award](/img/aboutme/award.svg)
+One of my favorite accomplishment was to participate in the Swift Student Challenge - WWDC22, where I got to develop an interactive app to be able to impress the judges at Apple and I got to be chosen as one of winners. Considering the challenge is world wide and only 300 people get to be chosen, I was so happy, jumping up and down out of joy, I also felt a sense of satisfaction to be have been chosen by Apple for something that was made entirely by me. You can see a video of the app that I made here: [How are Bézier curves made? A WWD22 Interactive scene](https://youtu.be/CKAgK4ZwFyQ). Or you can see the source code here: [HowAreBezierCurvesMadeStudentChallenge](https://github.com/pedroesli/HowAreBezierCurvesMadeStudentChallenge)
 
 #### Reason to hire me in your project ![file-earmark-person](/img/aboutme/file-earmark-person.svg)
-I will make your life easier! I am hard working person that will choose the smartest way to solve a problem, or sometimes what ever it takes to make it possible and get it done.
+I will make your life easier! I am a hard working person that will choose the smartest way to solve a problem, or sometimes what ever it takes to make it possible and get it done.
 
-#### More about me you ask? ![emoji-smile](/img/aboutme/emoji-smile.svg)
-I'm currently a computer science student in Universidade Católica de Brasília (ucb) in Brazil.
-The area that I want to focus most on is software development and iOS development. As a hobby I like to develop video games in my free time.
+#### More about me? ![emoji-smile](/img/aboutme/emoji-smile.svg)
+I'm currently a computer science student in Universidade Católica de Brasília (ucb) in Brazil. My mother tongue is Portuguese but I also speak fluent English and Spanish.
