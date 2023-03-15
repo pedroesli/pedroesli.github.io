@@ -50,6 +50,16 @@ css: "/css/project.css"
   </div>
 </div>
 
+<div class = "row">
+  <div class="col-md-4">
+    <a href="https://apps.apple.com/br/app/daska-trabalhe-com-agilidade/id6443508722?mt=12"><img class="image-frame" src="/img/projects/daska.png" alt="daska"></a>
+  </div>
+  <div class="col-md-8">
+    <div><b>Daska</b><br>Daska is an intelligent proposal with the aim of helping elementary and high school professionals in lesson planning.</div>
+    <div class="bottom"><a href="https://apps.apple.com/br/app/daska-trabalhe-com-agilidade/id6443508722?mt=12" class="btn btn-primary btn-sm" role="button">Go To Project</a></div>
+  </div>
+</div>
+
 <br>
 <h1>Github</h1>
 
@@ -83,7 +93,7 @@ css: "/css/project.css"
   </div>
 </div>
 
-<!-- <br>
+<br>
 <h1>Games</h1>
 
 <div class = "row">
@@ -114,4 +124,4 @@ css: "/css/project.css"
     <div><b>Space platform</b><br>A space platform game where you have to make it to the end without losing all lives.</div>
     <div class="bottom"><a href="https://pedroesli.itch.io/space-platform" class="btn btn-primary btn-sm" role="button">Go To Project</a></div>
   </div>
-</div> -->
+</div>
