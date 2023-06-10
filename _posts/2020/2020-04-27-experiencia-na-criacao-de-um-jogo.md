@@ -2,9 +2,6 @@
 layout: post
 title: Experiência na criação de um jogo
 subtitle: Criando um jogo durante a quarentena
-cover-img: /img/cover-pink.png
-black-header: true
-comments: true
 tags: [game-dev]
 ---
 
@@ -28,12 +25,12 @@ public class Player : MonoBehaviour
     }
 }
 ```
-![old-pattern](/img/jogador-old-pattern.png)
+![old-pattern](/assets/img/2020/jogador-old-pattern.png)
 
 Ai decidi fazer uma pequena pesquisa e descobri um padrão de programação chamado de Observer pattern onde basicamente o que ele faz é notificar a todos que estão escutando a um evento.
 Basicamente o que ele fala é: "Oh aconteceu este evento! Quem estiver escutando, notificar ele!".
 
-![observer-patter](/img/jogador-observer-patter.png)
+![observer-patter](/assets/img/2020/jogador-observer-patter.png)
 
 #### Implementando em codigo
 Aqui criei uma ação chamado de OnPlayerMachucado onde tem parametro obrigatorio do tipo int. Porem quem tiver escutando este evento deve implementar uma função que tem como parametro do tipo int.

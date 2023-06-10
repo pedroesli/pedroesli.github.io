@@ -2,11 +2,7 @@
 layout: post
 title: Factorial Digit Sum
 subtitle: Como somar os dígitos do numero de um fatorial?
-cover-img: /img/cover-purple.png
-thumbnail-img: /img/multiplicacao.png
-black-header: true
-comments: true
-css: "/css/post.css"
+thumbnail-img: /assets/img/2020/multiplicacao.png
 tags: [c#, .net]
 ---
 
@@ -92,7 +88,7 @@ Não! Como cientista  da computação, devo trazer todas as soluções. Porem vi
 
 A idea do método Multiply(int x, List<int> bigNum) é calcular grandes números usando uma lista. Ilustrei o método usado para multiplicar na seguinte imagem:
 
-# ![multiplicacao](/img/multiplicacao.png)
+# ![multiplicacao](/assets/img/2020/multiplicacao.png)
 
 ```
 using System;

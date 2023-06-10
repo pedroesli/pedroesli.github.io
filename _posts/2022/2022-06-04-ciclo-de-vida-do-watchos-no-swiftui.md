@@ -2,10 +2,6 @@
 layout: post
 title: Ciclo de vida do watchOS no SwiftUI
 subtitle: Como responder aos eventos de ciclo de vida do watchOS?
-cover-img: /img/cover-purple.png
-black-header: true
-comments: true
-css: "/css/post.css"
 tags: [watchOS]
 ---
 

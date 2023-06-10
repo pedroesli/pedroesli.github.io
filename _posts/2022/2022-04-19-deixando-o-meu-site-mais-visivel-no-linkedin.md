@@ -2,16 +2,12 @@
 layout: post
 title: Deixando o meu site mais visível no Linkedin
 subtitle: Fazendo uma melhoria no meu site
-cover-img: /img/cover-pink.png
-black-header: true
-comments: true
-css: "/css/post.css"
 tags: [improvement]
 ---
 
 Então, no outro dia eu tava dando uma olhada no meu perfil do LinkedIn e eu vi algo que podia ser melhorado. No destaque eu tenho um link redirecionando para o meu site.
 
-![before update](/img/2022/april/before-update.png)
+![before update](/assets/img/2022/april/before-update.png)
 
 E como você já pode ter percebido, tem algo faltando nesse Preview do site. O problema dele é que não tem exatamente um preview para mostrar e a descrição tá parecendo que foi escrito por uma criança, então vamos arrumar isso pra depois eu dormir aliviado sabendo que tenho um belo preview sendo mostrado.
 
@@ -39,7 +35,7 @@ Aqui um exemplo tirado do site do protocolo ([https://ogp.me](https://ogp.me/)):
 
 A tag que estou mais interessado é a imagem e editar a descrição. Então primeiramente vou ter que encontrar a pagina do meu site pra fazer essas mudanças.
 
-![find meta tag](/img/2022/april/find-meta-tag.png)
+![find meta tag](/assets/img/2022/april/find-meta-tag.png)
 
 E como eu mudo isso... não parece ser simples como o é exemplo anterior. Bom, primeiramente no meu caso como eu estou utilizando uma framework chamado de [Jekyll](https://jekyllrb.com). Uma Framework que facilita a criação de site blogs estáticos, e não precisa de um banco de dados como Wordpress para guardar os textos. E nessa eu devo utilizar a variável `share-img` na configuração da pagina do projeto (`projects.md`).
 
@@ -72,7 +68,7 @@ css: "/css/project.css"
 
 # Resultado Final
 
-![final result](/img/2022/april/final-result.png)
+![final result](/assets/img/2022/april/final-result.png)
 
 Para o título e a descrição acabei mudando no próprio site do Linkedin.
 

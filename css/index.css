@@ -1,7 +1,0 @@
-.breadcrumb{
-  text-align: center;
-}
-.breadcrumb>li+li:before {
-    content: "•";
-    padding: 0 9px 0 5px; 
-}

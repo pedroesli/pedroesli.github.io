@@ -2,10 +2,6 @@
 layout: post
 title: Terminal com Spaceship e autocomplete
 subtitle: Como personalizar o seu terminal com Spaceship Prompt e autocomplete
-cover-img: /img/cover-purple.png
-black-header: true
-comments: true
-css: "/css/post.css"
 tags: [tutorial]
 ---
 
@@ -17,11 +13,11 @@ Realizei este tutorial considerando que você nunca customizou o seu terminal e 
 
 ### Terminal atual
 
-![terminal preview 1](/img/2023/march/terminal-preview-1.png)
+![terminal preview 1](/assets/img/2023/terminal-preview-1.png)
 
 ### Terminal final com Spaceship Prompt
 
-![terminal preview 5](/img/2023/march/terminal-preview-5.png)
+![terminal preview 5](/assets/img/2023/terminal-preview-5.png)
 
 # Passo 1: Instalar Oh My Zsh
 
@@ -35,7 +31,7 @@ Dependendo se você não instalou `Command Line Developer Tools` antes, ele vai 
 
 ### Oh My Zsh baixado
 
-![terminal preview 2](/img/2023/march/terminal-preview-2.png)
+![terminal preview 2](/assets/img/2023/terminal-preview-2.png)
 
 Oh My Zsh cria um arquivo oculto de configurações onde vamos utilizar em algumas etapas em seguida. para abrir ele podemos rodar o comando:
 
@@ -81,12 +77,12 @@ source $(brew --prefix)/opt/spaceship/spaceship.zsh
 
 Você pode ter percebido que alguns ícones não estão aparecendo corretamente. 
 
-![terminal preview 3](/img/2023/march/terminal-preview-3.png)
+![terminal preview 3](/assets/img/2023/terminal-preview-3.png)
 
 Isso é porque não estamos utilizando a fonte correta, para isso basta baixar a fonte [Nerd Font](https://www.nerdfonts.com/font-downloads), ou [FiraCode Nerd Font](https://www.nerdfonts.com/font-downloads) que é o mais popular. Depois de instalar a fonte, volta para o terminal e navega no menu Terminal>Ajustes…
 
 Depois em Perfis>Texto>Fonte>Trocar e mudar para a fonte instalada.
 
-!![terminal preview 4](/img/2023/march/terminal-preview-4.png)
+!![terminal preview 4](/assets/img/2023/terminal-preview-4.png)
 
 E agora você tem um terminal mais customizado. Você pode ir mais alem e customizar o seu tema, basta seguir as instruções no site oficial: [Spaceship configuration](https://spaceship-prompt.sh/config/intro/)
