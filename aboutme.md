@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Why you'd want to meet me
-css: "/css/aboutme.css"
+css: "/assets/css/aboutme.css"
 ---
 
 # ![my picture](/assets/img/aboutme/profile-pic.png)
