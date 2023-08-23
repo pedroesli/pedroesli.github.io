@@ -12,6 +12,16 @@ css: "/assets/css/project.css"
 
 <div class = "row">
   <div class="col-md-4">
+    <a href="https://apps.apple.com/app/neoflip-clock/id6459699583"><img class="image-frame" src="/assets/img/projects/neoflip-clock-icon.png" alt="neoflip clock"></a>
+  </div>
+  <div class="col-md-8">
+    <div><b>NeoFlip Clock</b><br>NeoFlip Clock is an alternative approach to the classic clock app with neumorphism design and simplicity. It's features are a clock, stopwatch and a timer. Plus, it's all for free!</div>
+    <div class="bottom"><a href="https://apps.apple.com/app/neoflip-clock/id6459699583" class="btn btn-primary btn-sm" role="button">Go To Project</a></div>
+  </div>
+</div>
+
+<div class = "row">
+  <div class="col-md-4">
     <a href="https://apple.co/3kkiOto"><img class="image-frame" src="/assets/img/projects/fonospace.png" alt="fonospace"></a>
   </div>
   <div class="col-md-8">
