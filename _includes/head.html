@@ -109,7 +109,9 @@
   <meta property="og:title" content="{{ title }}">
   <meta property="og:description" content="{{ description }}">
 
-  {% if img != "" %}
+  {% if page.share-img %}
+  <meta property="og:image" content="{{ page.share-img }}">
+  {% elsif img != "" %}
   <meta property="og:image" content="{{ img | absolute_url }}">
   {% endif %}
 

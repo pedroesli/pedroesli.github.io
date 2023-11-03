@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 subtitle: Projects that where developed by me. Enjoy!
-share-img: https://pedroesli.com/img/projects-preview.png
+share-img: https://pedroesli.com/img/projects/projects-preview.png
 css: "/assets/css/project.css"
 ---
 
