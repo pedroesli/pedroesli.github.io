@@ -20,7 +20,7 @@ css: "/assets/css/project.css"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class="col-md-4">
     <a href="https://apple.co/3kkiOto"><img class="image-frame" src="/assets/img/projects/fonospace.png" alt="fonospace"></a>
   </div>
@@ -28,7 +28,7 @@ css: "/assets/css/project.css"
     <div><b>FonoSpace</b><br>FonoSpace helps children to identify and have fun while also learning how to pronounce correctly words based on animal sounds.</div>
     <div class="bottom"><a href="https://apple.co/3kkiOto" class="btn btn-primary btn-sm" role="button">Go To Project</a></div>
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class="col-md-4">
