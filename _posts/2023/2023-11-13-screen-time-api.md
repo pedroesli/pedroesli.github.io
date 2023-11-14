@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Screen Time API to block apps for a specified time
-subtitle: Using Screen Time API to help fight phone addiction.
+subtitle: Using Screen Time API to help user reduce app usage.
 tags: [tutorial, swift]
 ---
 
