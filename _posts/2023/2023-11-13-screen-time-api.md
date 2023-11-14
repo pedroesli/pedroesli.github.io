@@ -138,11 +138,11 @@ For the moment, we can only apply the shield to the activities that we select. T
 
 So after allowing the api, I'll be able to configure the activities that I want to apply the shielding. For the moment I'll just select Instagram. As you can see, the app icon will become slightly dimmed and there will be a hourglass indicating it's a shielded app.
 
-![instagram_shielded.png](assets/img/2023/instagram_shielded.png)
+![instagram_shielded.png](/assets/img/2023/instagram_shielded.png)
 
 If the user decides to open the app, they won't actually be able to use it and be greeted with the following view.
 
-![restricted_view.png](assets/img/2023/restricted_view.png)
+![restricted_view.png](/assets/img/2023/restricted_view.png)
 
 Now in the next step we will add the custom functionality to allow the user to unlock the app and use it for a few minutes then shield it again once the timer has finished. We will also add a custom view for the shielded view.
 
@@ -160,7 +160,7 @@ Repeat the same steps for other extensions.
 > Optional step: It might ask you to activate the scheme. If it does, activate it. Then edit the created scheme > go to Run tab > Info > Executable > select the projects executable that ends in .app. Do the same step for each of the added scheme. This allows you to run the apps extension and receive print statements in the xcode console.
 > 
 
-![target.png](assets/img/2023/target.png)
+![target.png](/assets/img/2023/target.png)
 
 ## Share data between extensions
 
@@ -224,7 +224,7 @@ struct DataBase {
 > Important Step❗️For both of these new swift files, select the target membership for **shield action** and **device activity monitor**
 > 
 
-![target_membership.png](assets/img/2023/target_membership.png)
+![target_membership.png](/assets/img/2023/target_membership.png)
 
 ## Shield Configuration Extension
 
@@ -244,7 +244,7 @@ override func configuration(shielding application: Application) -> ShieldConfigu
     }
 ```
 
-![custom_shield_view.png](assets/img/2023/custom_shield_view.png)
+![custom_shield_view.png](/assets/img/2023/custom_shield_view.png)
 
 ## Shield Action Extension
 
