@@ -79,10 +79,10 @@ Você pode ter percebido que alguns ícones não estão aparecendo corretamente.
 
 ![terminal preview 3](/assets/img/2023/terminal-preview-3.png)
 
-Isso é porque não estamos utilizando a fonte correta, para isso basta baixar a fonte [Nerd Font](https://www.nerdfonts.com/font-downloads), ou [FiraCode Nerd Font](https://www.nerdfonts.com/font-downloads) que é o mais popular. Depois de instalar a fonte, volta para o terminal e navega no menu Terminal>Ajustes…
+Isso é porque não estamos utilizando a fonte correta, para isso basta baixar a fonte [Nerd Font](https://www.nerdfonts.com/font-downloads), ou [FiraCode Nerd Font](https://www.nerdfonts.com/font-downloads) que é o mais popular. Depois de instalar a fonte, volta para o terminal e navega no menu **Terminal>Ajustes…**
 
-Depois em Perfis>Texto>Fonte>Trocar e mudar para a fonte instalada.
+Depois em **Perfis>Texto>Fonte>Trocar** e mudar para a fonte instalada.
 
-!![terminal preview 4](/assets/img/2023/terminal-preview-4.png)
+![terminal preview 4](/assets/img/2023/terminal-preview-4.png)
 
 E agora você tem um terminal mais customizado. Você pode ir mais alem e customizar o seu tema, basta seguir as instruções no site oficial: [Spaceship configuration](https://spaceship-prompt.sh/config/intro/)
