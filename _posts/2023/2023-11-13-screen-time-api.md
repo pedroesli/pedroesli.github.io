@@ -158,14 +158,14 @@ App extensions let you extend custom functionality and content beyond your app a
 Add the first one by going to **File > New > Target > Shield Action Extension.**
 Repeat the same steps for other extensions. 
 
-> Optional step: It might ask you to activate the scheme. If it does, activate it. Then edit the created scheme > go to Run tab > Info > Executable > select the projects executable that ends in .app. Do the same step for each of the added scheme. This allows you to run the apps extension and receive print statements in the xcode console.
+> Optional step: It might ask you to activate the scheme. If it does, activate it. Then edit the created scheme > go to Run tab > Info > Executable > select the projects executable that ends in .app. Do the same step for each of the added scheme. This allows you to run the apps extension and receive print statements in the Xcode console.
 > 
 
 ![target.png](/assets/img/2023/target.png)
 
 ## Share data between extensions
 
-Before adding custom functionalities on the extensions, we will need to share some information between them. We first need to go to the projects target and add a capability called **App Groups.** The group key needs to be in the following format: **group.com.{organization name}.{project name}.{group key name}**, for example my would be: group.com.pedro.ScreenTimeApp.data. ****Then add the same capability in the **Shield Action** and **Device Activity Monitor** Target. This will allow us to use the same data across multiples extensions. 
+Before adding custom functionalities on the extensions, we will need to share some information between them. We first need to go to the projects target and add a capability called **App Groups.** The group key needs to be in the following format: **group.com.{organization name}.{project name}.{group key name}**, for example my would be: group.com.pedro.ScreenTimeApp.data. Then add the same capability in the **Shield Action** and **Device Activity Monitor** Target. This will allow us to use the same data across multiples extensions. 
 
 Create a new swift file called `ApplicationProfile` and add the following code: 
 
