@@ -129,7 +129,8 @@ struct ShieldView: View {
 }
 ```
 
-> SwiftUI also provides a `[FamilyActivityPicker](https://developer.apple.com/documentation/familycontrols/familyactivitypicker)` view, if you decide to use the view approach.
+
+> SwiftUI also provides a **[FamilyActivityPicker](https://developer.apple.com/documentation/familycontrols/familyactivitypicker)** view, if you decide to use the view approach.
 > 
 
 ## First test
@@ -164,7 +165,7 @@ Repeat the same steps for other extensions.
 
 ## Share data between extensions
 
-Before adding custom functionalities on the extensions, we will need to share some information between them. We first need to go to the projects target and add a capability called **App Groups.** The group key needs to be in the following format: **group.com."organization name”."project name”."group key name”**, for example my would be: group.com.pedro.ScreenTimeApp.data. ****Then add the same capability in the **Shield Action** and **Device Activity Monitor** Target. This will allow us to use the same data across multiples extensions. 
+Before adding custom functionalities on the extensions, we will need to share some information between them. We first need to go to the projects target and add a capability called **App Groups.** The group key needs to be in the following format: **group.com.{organization name}.{project name}.{group key name}**, for example my would be: group.com.pedro.ScreenTimeApp.data. ****Then add the same capability in the **Shield Action** and **Device Activity Monitor** Target. This will allow us to use the same data across multiples extensions. 
 
 Create a new swift file called `ApplicationProfile` and add the following code: 
 
