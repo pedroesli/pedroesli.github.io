@@ -7,7 +7,7 @@ tags: [blog]
 
 Plato is a programming language that I decided to create as a personal challenge and also as a hobby. I have always been fascinated with programming languages, ever since I started university and used an educational IDE called Calango. It was meant to help you learn how to code and have better logical thinking. It also had its own programming language, which I assume is also called Calango, and was a lot easier than the c language we were first using. Later I found out that students had made this IDE as a capstone project, so I thought to myself: “If they could do it, so could I”. Well, the thing is, creating a new programming language is not as simple as sitting down in front of your favorite IDE and starting typing like a brainless monkey. No offense intended to monkey readers.
 
-[https://giphy.com/gifs/5Zesu5VPNGJlm](https://giphy.com/gifs/5Zesu5VPNGJlm)
+![https://giphy.com/gifs/5Zesu5VPNGJlm](https://giphy.com/gifs/5Zesu5VPNGJlm)
 
 So here are the main characteristics my programming language is going to have:
 
