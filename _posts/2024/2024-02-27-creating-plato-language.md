@@ -220,7 +220,7 @@ In computer science, **Backus–Naur form** or Backus normal form (**BNF**) is a
 
 **How to write:**
 
-- **\<symbol>** is a *nonterminal* variable that is always enclosed between the pair <>.
+- **symbol** is a *nonterminal* variable that is always enclosed between the pair <>.
 - `::=` means that the symbol on the left must be replaced with the expression on the right.
 - __expression__ consists of one or more sequences of either terminal or nonterminal symbols where each sequence is separated by a vertical bar **"|"** indicating a choice, the whole being a possible substitution for the symbol on the left.
 
