@@ -35,7 +35,7 @@ Device Activity provides a privacy-preserving way for an application to monitor 
 
 - Executes code on start and end of device activity schedules
 - Executes code on usage threshold
-- Custom usage reports using Swiftui
+- Custom usage reports using SwiftUI
 - New extension point allow you to choose what data to show
 
 # Prerequisites
