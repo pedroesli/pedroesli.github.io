@@ -275,17 +275,17 @@ An **abstract syntax tree (AST)** is a data structure used in computer science t
 
 # Resources
 
-- [[Interpreter vs compiler](https://www.notion.so/Creating-Plato-Language-19233456219447e68e1a5b3a64c7a65b?pvs=21)]: [https://techdifferences.com/difference-between-compiler-and-interpreter.html](https://techdifferences.com/difference-between-compiler-and-interpreter.html)
-- [[What is object code?](https://www.notion.so/Creating-Plato-Language-19233456219447e68e1a5b3a64c7a65b?pvs=21)]: [https://en.wikipedia.org/wiki/Object_code](https://en.wikipedia.org/wiki/Object_code)
-- [[Statically Typed vs Dynamically Typed Languages](https://www.notion.so/Creating-Plato-Language-19233456219447e68e1a5b3a64c7a65b?pvs=21)]: [https://www.baeldung.com/cs/statically-vs-dynamically-typed-languages](https://www.baeldung.com/cs/statically-vs-dynamically-typed-languages)
-- [[What are Parsers?](https://www.notion.so/Creating-Plato-Language-19233456219447e68e1a5b3a64c7a65b?pvs=21)]: [https://en.wikipedia.org/wiki/Parsing](https://en.wikipedia.org/wiki/Parsing)
-- [[LL Parser](https://www.notion.so/Creating-Plato-Language-19233456219447e68e1a5b3a64c7a65b?pvs=21)]: [https://en.wikipedia.org/wiki/LL_parser](https://en.wikipedia.org/wiki/LL_parser)
-- [[LR Parser](https://www.notion.so/Creating-Plato-Language-19233456219447e68e1a5b3a64c7a65b?pvs=21)]: [https://en.wikipedia.org/wiki/LR_parser](https://en.wikipedia.org/wiki/LR_parser)
-- [[Formal Grammar](https://www.notion.so/Creating-Plato-Language-19233456219447e68e1a5b3a64c7a65b?pvs=21)]: [https://en.wikipedia.org/wiki/Formal_grammar](https://en.wikipedia.org/wiki/Formal_grammar)
-- [[Context-free grammar](https://www.notion.so/Creating-Plato-Language-19233456219447e68e1a5b3a64c7a65b?pvs=21)]: [https://brilliant.org/wiki/context-free-grammars/](https://brilliant.org/wiki/context-free-grammars/)
-- [[Backus–Naur form](https://www.notion.so/Creating-Plato-Language-19233456219447e68e1a5b3a64c7a65b?pvs=21)]: [https://en.wikipedia.org/wiki/Backus–Naur_form](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form)
-- [[What is syntactic ambiguity?](https://www.notion.so/Creating-Plato-Language-19233456219447e68e1a5b3a64c7a65b?pvs=21)]: [https://en.wikipedia.org/wiki/Syntactic_ambiguity](https://en.wikipedia.org/wiki/Syntactic_ambiguity)
-- [[What is an abstract syntax tree?](https://www.notion.so/Creating-Plato-Language-19233456219447e68e1a5b3a64c7a65b?pvs=21)]: [https://en.wikipedia.org/wiki/Abstract_syntax_tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
+- Interpreter vs compiler: [https://techdifferences.com/difference-between-compiler-and-interpreter.html](https://techdifferences.com/difference-between-compiler-and-interpreter.html)
+- What is object code?: [https://en.wikipedia.org/wiki/Object_code](https://en.wikipedia.org/wiki/Object_code)
+- Statically Typed vs Dynamically Typed Languages: [https://www.baeldung.com/cs/statically-vs-dynamically-typed-languages](https://www.baeldung.com/cs/statically-vs-dynamically-typed-languages)
+- What are Parsers?: [https://en.wikipedia.org/wiki/Parsing](https://en.wikipedia.org/wiki/Parsing)
+- LL Parser: [https://en.wikipedia.org/wiki/LL_parser](https://en.wikipedia.org/wiki/LL_parser)
+- LR Parser: [https://en.wikipedia.org/wiki/LR_parser](https://en.wikipedia.org/wiki/LR_parser)
+- Formal Grammar: [https://en.wikipedia.org/wiki/Formal_grammar](https://en.wikipedia.org/wiki/Formal_grammar)
+- Context-free grammar: [https://brilliant.org/wiki/context-free-grammars/](https://brilliant.org/wiki/context-free-grammars/)
+- Backus–Naur form: [https://en.wikipedia.org/wiki/Backus–Naur_form](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form)
+- What is syntactic ambiguity?: [https://en.wikipedia.org/wiki/Syntactic_ambiguity](https://en.wikipedia.org/wiki/Syntactic_ambiguity)
+- What is an abstract syntax tree?: [https://en.wikipedia.org/wiki/Abstract_syntax_tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
 
 ## Others
 
