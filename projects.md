@@ -75,6 +75,16 @@ css: "/assets/css/project.css"
 
 <div class = "row">
   <div class="col-md-4">
+    <a href="https://github.com/pedroesli/Plato"><img class="image-frame" src="/assets/img/projects/plato-logo.png" alt="Plato"></a>
+  </div>
+  <div class="col-md-8">
+    <div><b>Plato</b><br>Plato is an interpreter written in Swift and inspired by R. It is a high-level, imperative, structured programming and gradually typed language.</div>
+    <div class="bottom"><a href="https://github.com/pedroesli/Plato" class="btn btn-primary btn-sm" role="button">Go To Project</a></div>
+  </div>
+</div>
+
+<div class = "row">
+  <div class="col-md-4">
     <a href="https://github.com/pedroesli/HowAreBezierCurvesMadeStudentChallenge"><img class="image-frame" src="/assets/img/projects/bezier-logo.png" alt="HowAreBezierCurvesMade"></a>
   </div>
   <div class="col-md-8">
